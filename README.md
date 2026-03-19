@@ -10,4 +10,4 @@
 
 ### Rendered notebook
 
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](./ass1_oces5303_21335836.ipynb)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](./ass1_oces5303_21335836_rendered.ipynb)
